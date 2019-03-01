@@ -1,1 +1,1 @@
-Dejamos este archivo en la raiz a ver por donde crea
+ est en la raiz a ver pora EStoy modificando el Vim
